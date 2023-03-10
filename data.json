@@ -1,0 +1,57 @@
+
+
+[
+	
+	{
+		"id": 1,
+		"district": "Белгородская область",
+		"info":["https://cdn-ru.bitrix24.ru/b19600494/landing/e4a/e4ab123bce3e2563e9e5d80f5e15fa4e/KMA_ruda_-_Belgorod_1x.jpg", "https://cdn-ru.bitrix24.ru/b19600494/landing/305/305827591646a35460290a02dcc342fa/LEBEDINSKIY_GOK_AO_-_Belgorod_1x.jpg", "https://cdn-ru.bitrix24.ru/b19600494/landing/43d/43da1f9d9c5e86067a06d4c80a1935ac/YAkovlevskiy_GOK_-_Belgorod_1x.jpg"]
+
+	},
+	{
+		"id": 2,
+		"district": "Хабаровская область",
+		"info": ["https://cdn-ru.bitrix24.ru/b19600494/landing/146/146c4917c47e960d9572ca33f113a025/urgaugol-_KHabarovsk_1x.webp"]
+	},
+	{
+		"id": 3,
+		"district": "Ростовская область",
+		"info": ["https://cdn-ru.bitrix24.ru/b19600494/landing/694/694ca2ab85f206ccb0eee30b670c7aed/donskoy_antratsit-_Rostov_1x.jpg", "https://cdn-ru.bitrix24.ru/b19600494/landing/bad/bad445a55b337f5889441b5b48e5cab1/DONUGOL_AO_-_Rostov_1x.jpg"]
+	},
+	{
+		"id": 4,
+		"district": "Кемеровская область",
+		"info": ["https://cdn-ru.bitrix24.ru/b19600494/landing/fbf/fbf67dfb90204d36481f048bab543c8e/Logotip_merkuriy_-Kemerovo_1x_1x.jpg"
+	, "https://cdn-ru.bitrix24.ru/b19600494/landing/916/916c84a35bae5ea521d0353595da2929/Mmk_ugol-_Kemerovo_1x.png"
+, "https://cdn-ru.bitrix24.ru/b19600494/landing/72f/72fdb488f48726c243df2e119d0032f4/Severnyy_Kuzbass_-_Kemerovo_1x.png"
+, "https://cdn-ru.bitrix24.ru/b19600494/landing/402/402ef8f24c18b00ec9bc9d2d21d637e5/SIBER_AO_-_Kemerovo_1x.jpg",
+"https://cdn-ru.bitrix24.ru/b19600494/landing/650/650cdf65eae9646b263c265202f2d702/SUEK-KUZBASS_AO_-_Kemerovo_1x.jpg",
+"https://cdn-ru.bitrix24.ru/b19600494/landing/6bd/6bd617e0f63d08129fa53ea312f0be85/TD_Taldinskiy_Kemerovo_1x.png",
+"https://cdn-ru.bitrix24.ru/b19600494/landing/3f9/3f9a6a64038ed206db08dfe862f0724f/UGLESNAB_OOO_-_Kemerovo_1x.jpeg",
+"https://cdn-ru.bitrix24.ru/b19600494/landing/9f7/9f7598b66117935eee51c8e76b34299f/Ugolnaya-Kompaniya-SIBIRSKAYA_-Kemerovo_1x.png",
+"https://cdn-ru.bitrix24.ru/b19600494/landing/284/2844195e5397c6e87329ddb88a111064/UK_ANZHERSKAYA-YUZHNAYA_-_Kemerovo_1x.jpg",
+"https://cdn-ru.bitrix24.ru/b19600494/landing/1d0/1d0509926881d602fd07e40bccce2f65/UK_Sibirskaya_-_Kemerovo_1x.jpg",
+"https://cdn-ru.bitrix24.ru/b19600494/landing/04a/04a72e61bc37d53c6c0bb2725131684d/SHakhta_YUbileynaya_-_Kemerovo_1x.jpg"]
+	},
+	{
+		"id": 5,
+		"district": "Новосибирская область",
+		"info": ["https://cdn-ru.bitrix24.ru/b19600494/landing/23a/23a5d99a098c9257d0313c6186076dc3/KUZBASSSHAKHTPROEKT_OOO-_Novosibirsk_1x.png"]
+	},
+	{
+		"id": 6,
+		"district": "Башкортостан",
+		"info": ""
+	},
+	{
+		"id": 7,
+		"district": "Свердловская область",
+		"info": ["https://cdn-ru.bitrix24.ru/b19600494/landing/910/9101a9b4f3342b9f6378f6ab0cfe4793/SUBR_AO-_Sverdorvsk_1x.jpg"]
+	},
+	{
+		"id": 8,
+		"district": "Томская область",
+		"info": ["https://cdn-ru.bitrix24.ru/b19600494/landing/595/595c6e856c40e3d381233e3acb522b8c/NPO_Progress_-_Tomsk_1x.jpg",
+	"https://cdn-ru.bitrix24.ru/b19600494/landing/546/5461c69e35bfd6e2e6f958383b75e57d/NPF_MIKRAN_AO_-_Tomsk_1x.png"]
+	}
+]
